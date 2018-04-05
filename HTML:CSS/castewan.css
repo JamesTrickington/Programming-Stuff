@@ -1,0 +1,106 @@
+ #header2text {
+	 font-size: 25px;
+	 padding: 15px;
+	 Color: MidnightBlue;
+	 font-weight: Bold;
+	 text-align: Center;
+	 font-family: Philosopher, Arial;
+	 text-transform: uppercase;
+	 line-height: 2.0;
+	 word-spacing: 10px;
+	 margin: 0;
+}
+	 
+ .header {
+	height: 1000px;
+	width: 100%;
+	margin: 0;
+ }
+ #header-text, #header2text {
+	margin: 0 auto;
+	text-align: center;
+	position: relative;
+	top: 30%;
+	width: 60%;
+}
+ 
+ #header-text {
+	 padding: 15px;
+	 color: midnightBlue;
+	 font-size: 50px;
+	 font-weight: 400;
+	 line-height: 60px;
+	 word-spacing: 10px;
+	 text-align: Center;
+}
+.header {
+	background-image: url("http://blog.hdwallsource.com/wp-content/uploads/2016/03/key-desktop-wallpaper-50691-52383-hd-wallpapers.jpg");
+	background-position: 50% 0%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 1000px;
+	width: 100%;
+	margin: 0;
+	font-family: philosopher;
+}
+
+#ourProductHeader, #OptionHeader, #PricingHeader{
+	color: fireBrick;
+	font-size: 25px;
+}
+
+#ourProductP{
+	color: limeGreen;
+	font-size: 20px;
+	padding-bottom: 250px;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+.left {
+   float: left;
+   padding: 0 20px 20px 0;
+}
+
+#OptionList{
+	color: rebeccaPurple;
+	font-size: 20px;
+}
+
+h1{
+	text-align: center;
+}
+
+p{
+	text-indent: 2.0em;
+	padding: 5px
+}
+
+body {
+	background-color: Gray;
+	font-family: philosopher;
+}
+
+.right {
+	float: right;
+	padding: 0 20px 20px 0;
+	height:25%;
+	width: 40%;
+	padding-right: 30px;
+}
+
+#Asthetics {
+	color: Orange;
+	font-size: 20px;
+}
+
+#PricingStuff {
+	font-size: 20px;
+	color: Navy;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+	padding: 10px;
+}
